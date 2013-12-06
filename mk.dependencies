@@ -4,11 +4,7 @@
    "target_path": "device/lge/iprj-common"
  },
  {
-   "repository": "android_vendor_lge_p930",
-   "target_path": "vendor/lge/p930"
- },
- {
-   "repository": "android_kernel_lge_iproj",
+   "repository": "lge-kernel-iproj",
    "target_path": "kernel/lge/iproj"
  }
 ]
